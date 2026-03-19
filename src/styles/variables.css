@@ -1,0 +1,23 @@
+:root {
+  --bg-dark: #1C1C1C;
+  --surface-dark: #252525;
+  --card-dark: #2E2E2E;
+  --border-dark: #333333;
+
+  --bg-light: #FAFAF8;
+  --text-dark: #1A1A1A;
+
+  --red: #E8352A;
+  --orange: #FF8C69;
+  --amber: #FFB800;
+  --green: #4ade80;
+
+  --text-light: #FFFFFF;
+  --text-muted: #A1A1A1;
+
+  --gradient: linear-gradient(135deg, #E8352A, #FF8C69, #FFB800);
+  
+  /* Additional tokens for cleaner UI */
+  --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  --container: 1280px;
+}
